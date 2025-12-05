@@ -1,0 +1,13 @@
+D:\MyThi_490\bin\Debug\MyThi_490.exe.config
+D:\MyThi_490\bin\Debug\MyThi_490.exe
+D:\MyThi_490\bin\Debug\MyThi_490.pdb
+D:\MyThi_490\obj\Debug\MyThi_490.csproj.AssemblyReference.cache
+D:\MyThi_490\obj\Debug\MyThi_490.Form1.resources
+D:\MyThi_490\obj\Debug\MyThi_490.Menu.resources
+D:\MyThi_490\obj\Debug\MyThi_490.Properties.Resources.resources
+D:\MyThi_490\obj\Debug\MyThi_490.csproj.GenerateResource.cache
+D:\MyThi_490\obj\Debug\MyThi_490.csproj.CoreCompileInputs.cache
+D:\MyThi_490\obj\Debug\MyThi_490.exe
+D:\MyThi_490\obj\Debug\MyThi_490.pdb
+D:\MyThi_490\obj\Debug\MyThi_490.GUI.Login.resources
+D:\MyThi_490\obj\Debug\MyThi_490.GUI.Register.resources
