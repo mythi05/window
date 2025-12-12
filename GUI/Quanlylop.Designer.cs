@@ -1,6 +1,6 @@
 ﻿namespace MyThi_490.GUI
 {
-    partial class MainForm
+    partial class Quanlylop
     {
         /// <summary>
         /// Required designer variable.
@@ -28,10 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // Quanlylop
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "MainForm";
+            this.Name = "Quanlylop";
+            this.Text = "Quanlylop";
+            this.Load += new System.EventHandler(this.Quanlylop_Load);
+            this.ResumeLayout(false);
+
         }
 
         #endregion

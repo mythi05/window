@@ -66,17 +66,35 @@
     <Compile Include="GUI\Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
-    <Compile Include="GUI\MainForm.cs">
+    <Compile Include="GUI\Quanlykhoa.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GUI\MainForm.Designer.cs">
-      <DependentUpon>MainForm.cs</DependentUpon>
+    <Compile Include="GUI\Quanlykhoa.Designer.cs">
+      <DependentUpon>Quanlykhoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Quanlylop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Quanlylop.Designer.cs">
+      <DependentUpon>Quanlylop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Quanlysinhvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Quanlysinhvien.Designer.cs">
+      <DependentUpon>Quanlysinhvien.cs</DependentUpon>
     </Compile>
     <Compile Include="GUI\Register.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="GUI\Register.Designer.cs">
       <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Menu.cs">
       <SubType>Form</SubType>
@@ -93,8 +111,20 @@
     <EmbeddedResource Include="GUI\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Quanlykhoa.resx">
+      <DependentUpon>Quanlykhoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Quanlylop.resx">
+      <DependentUpon>Quanlylop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Quanlysinhvien.resx">
+      <DependentUpon>Quanlysinhvien.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GUI\Register.resx">
       <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>

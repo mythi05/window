@@ -26,5 +26,10 @@ namespace MyThi_490.GUI
         {
 
         }
+
+        private void Register_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

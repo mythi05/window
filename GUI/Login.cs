@@ -19,6 +19,25 @@ namespace MyThi_490.GUI
 
         private void txtUserName_TextChanged(object sender, EventArgs e)
         {
+           
+          
+        }
+
+        private void btnlogin_Click(object sender, EventArgs e)
+        {
+            string username = txtUserName.Text;
+            string password = txtPassword.Text;
+            if (username == "admin" && password == "admin")
+            {
+                MessageBox.Show("Login successful!");
+                MainForm mainForm = new MainForm();
+                mainForm.Show();
+
+            }
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
 
         }
     }

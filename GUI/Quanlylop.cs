@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace MyThi_490.GUI
 {
-    public partial class MainForm : Form
+    public partial class Quanlylop : Form
     {
-        public MainForm()
+        public Quanlylop()
         {
             InitializeComponent();
+        }
+
+        private void Quanlylop_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

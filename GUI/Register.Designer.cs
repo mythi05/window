@@ -41,82 +41,91 @@
             // 
             // btnregister
             // 
-            this.btnregister.Location = new System.Drawing.Point(343, 325);
+            this.btnregister.Location = new System.Drawing.Point(213, 334);
             this.btnregister.Name = "btnregister";
             this.btnregister.Size = new System.Drawing.Size(119, 41);
             this.btnregister.TabIndex = 9;
             this.btnregister.Text = "Register";
             this.btnregister.UseVisualStyleBackColor = true;
+            this.btnregister.UseWaitCursor = true;
             // 
             // txtPassword
             // 
-            this.txtPassword.Location = new System.Drawing.Point(294, 144);
+            this.txtPassword.Location = new System.Drawing.Point(164, 153);
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.Size = new System.Drawing.Size(187, 26);
             this.txtPassword.TabIndex = 8;
+            this.txtPassword.UseWaitCursor = true;
             // 
             // txtUserName
             // 
-            this.txtUserName.Location = new System.Drawing.Point(294, 73);
+            this.txtUserName.Location = new System.Drawing.Point(164, 82);
             this.txtUserName.Name = "txtUserName";
             this.txtUserName.Size = new System.Drawing.Size(187, 26);
             this.txtUserName.TabIndex = 7;
+            this.txtUserName.UseWaitCursor = true;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(185, 147);
+            this.label5.Location = new System.Drawing.Point(55, 156);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(78, 20);
             this.label5.TabIndex = 6;
             this.label5.Text = "Password";
+            this.label5.UseWaitCursor = true;
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(178, 73);
+            this.label6.Location = new System.Drawing.Point(48, 82);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(85, 20);
             this.label6.TabIndex = 5;
             this.label6.Text = "UserName";
+            this.label6.UseWaitCursor = true;
             // 
             // txtFullname
             // 
-            this.txtFullname.Location = new System.Drawing.Point(294, 212);
+            this.txtFullname.Location = new System.Drawing.Point(164, 221);
             this.txtFullname.Name = "txtFullname";
             this.txtFullname.Size = new System.Drawing.Size(187, 26);
             this.txtFullname.TabIndex = 11;
+            this.txtFullname.UseWaitCursor = true;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(185, 215);
+            this.label1.Location = new System.Drawing.Point(55, 224);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(76, 20);
             this.label1.TabIndex = 10;
             this.label1.Text = "FullName";
+            this.label1.UseWaitCursor = true;
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(294, 270);
+            this.textBox1.Location = new System.Drawing.Point(164, 279);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(187, 26);
             this.textBox1.TabIndex = 13;
+            this.textBox1.UseWaitCursor = true;
             // 
             // txtphone
             // 
             this.txtphone.AutoSize = true;
-            this.txtphone.Location = new System.Drawing.Point(152, 276);
+            this.txtphone.Location = new System.Drawing.Point(22, 285);
             this.txtphone.Name = "txtphone";
             this.txtphone.Size = new System.Drawing.Size(111, 20);
             this.txtphone.TabIndex = 12;
             this.txtphone.Text = "PhoneNumber";
+            this.txtphone.UseWaitCursor = true;
             // 
             // Register
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(455, 450);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.txtphone);
             this.Controls.Add(this.txtFullname);
@@ -129,6 +138,7 @@
             this.Name = "Register";
             this.Text = " Password";
             this.UseWaitCursor = true;
+            this.Load += new System.EventHandler(this.Register_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
