@@ -31,7 +31,7 @@ namespace MyThi_490
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Register objForm1 = new Register();
+            Change objForm1 = new Change();
             objForm1.Show();
         }
         private void button4_Click(object sender, EventArgs e)

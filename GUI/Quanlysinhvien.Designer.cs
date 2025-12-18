@@ -5,45 +5,21 @@ namespace MyThi_490.GUI
 {
     partial class Quanlysinhvien
     {
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
-        /// Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
-            {
                 components.Dispose();
-            }
             base.Dispose(disposing);
         }
 
         #region Windows Form Designer generated code
 
-        /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
-        /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.MSSV = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.fullname = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Phone = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Gioitinh = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Khoa = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Date = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.panel2 = new System.Windows.Forms.Panel();
+            this.panelTop = new System.Windows.Forms.Panel();
             this.lblMSSV = new System.Windows.Forms.Label();
             this.txtMSSV = new System.Windows.Forms.TextBox();
             this.lblHoten = new System.Windows.Forms.Label();
@@ -57,299 +33,269 @@ namespace MyThi_490.GUI
             this.btnThem = new System.Windows.Forms.Button();
             this.btnSua = new System.Windows.Forms.Button();
             this.btnXoa = new System.Windows.Forms.Button();
-            this.btnClear = new System.Windows.Forms.Button();
-            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
-            this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
-            this.folderBrowserDialog2 = new System.Windows.Forms.FolderBrowserDialog();
-            this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
-            this.panel2.SuspendLayout();
+            this.btnLamMoi = new System.Windows.Forms.Button();
+            this.dgvSinhVien = new System.Windows.Forms.DataGridView();
+            this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.panelTop.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvSinhVien)).BeginInit();
             this.SuspendLayout();
             // 
-            // contextMenuStrip1
+            // panelTop
             // 
-            this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(24, 24);
-            this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
-            // 
-            // panel1
-            // 
-            this.panel1.Controls.Add(this.dataGridView1);
-            this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(906, 450);
-            this.panel1.TabIndex = 2;
-            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
-            // 
-            // dataGridView1
-            // 
-            this.dataGridView1.AllowUserToAddRows = false;
-            dataGridViewCellStyle1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(245)))), ((int)(((byte)(245)))), ((int)(((byte)(245)))));
-            this.dataGridView1.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
-            this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.dataGridView1.BackgroundColor = System.Drawing.Color.WhiteSmoke;
-            this.dataGridView1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.dataGridView1.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleHorizontal;
-            this.dataGridView1.ColumnHeadersHeight = 35;
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
-            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.MSSV,
-            this.fullname,
-            this.Phone,
-            this.Gioitinh,
-            this.Khoa,
-            this.Date});
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Segoe UI", 10F);
-            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(120)))), ((int)(((byte)(215)))));
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dataGridView1.DefaultCellStyle = dataGridViewCellStyle2;
-            this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.dataGridView1.EnableHeadersVisualStyles = false;
-            this.dataGridView1.GridColor = System.Drawing.Color.LightGray;
-            this.dataGridView1.Location = new System.Drawing.Point(0, 151);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.RowHeadersWidth = 62;
-            this.dataGridView1.RowTemplate.Height = 30;
-            this.dataGridView1.Size = new System.Drawing.Size(906, 299);
-            this.dataGridView1.TabIndex = 0;
-            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick_1);
-            // 
-            // MSSV
-            // 
-            this.MSSV.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
-            this.MSSV.HeaderText = "MASV";
-            this.MSSV.MinimumWidth = 8;
-            this.MSSV.Name = "MSSV";
-            this.MSSV.Width = 91;
-            // 
-            // fullname
-            // 
-            this.fullname.HeaderText = "Họ Tên";
-            this.fullname.MinimumWidth = 8;
-            this.fullname.Name = "fullname";
-            // 
-            // Phone
-            // 
-            this.Phone.HeaderText = "SĐT";
-            this.Phone.MinimumWidth = 8;
-            this.Phone.Name = "Phone";
-            // 
-            // Gioitinh
-            // 
-            this.Gioitinh.HeaderText = "Giới tính";
-            this.Gioitinh.MinimumWidth = 8;
-            this.Gioitinh.Name = "Gioitinh";
-            // 
-            // Khoa
-            // 
-            this.Khoa.HeaderText = "Khoa";
-            this.Khoa.MinimumWidth = 8;
-            this.Khoa.Name = "Khoa";
-            // 
-            // Date
-            // 
-            this.Date.HeaderText = "Ngày sinh";
-            this.Date.MinimumWidth = 8;
-            this.Date.Name = "Date";
-            // 
-            // panel2
-            // 
-            this.panel2.Controls.Add(this.lblMSSV);
-            this.panel2.Controls.Add(this.txtMSSV);
-            this.panel2.Controls.Add(this.lblHoten);
-            this.panel2.Controls.Add(this.txtHoten);
-            this.panel2.Controls.Add(this.lblGioitinh);
-            this.panel2.Controls.Add(this.cbGioitinh);
-            this.panel2.Controls.Add(this.lblKhoa);
-            this.panel2.Controls.Add(this.cbKhoa);
-            this.panel2.Controls.Add(this.lblLop);
-            this.panel2.Controls.Add(this.cbLop);
-            this.panel2.Controls.Add(this.btnThem);
-            this.panel2.Controls.Add(this.btnSua);
-            this.panel2.Controls.Add(this.btnXoa);
-            this.panel2.Controls.Add(this.btnClear);
-            this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel2.Location = new System.Drawing.Point(0, 0);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(906, 145);
-            this.panel2.TabIndex = 3;
-            this.panel2.Paint += new System.Windows.Forms.PaintEventHandler(this.panel2_Paint);
+            this.panelTop.BackColor = System.Drawing.Color.White;
+            this.panelTop.Controls.Add(this.lblMSSV);
+            this.panelTop.Controls.Add(this.txtMSSV);
+            this.panelTop.Controls.Add(this.lblHoten);
+            this.panelTop.Controls.Add(this.txtHoten);
+            this.panelTop.Controls.Add(this.lblGioitinh);
+            this.panelTop.Controls.Add(this.cbGioitinh);
+            this.panelTop.Controls.Add(this.lblKhoa);
+            this.panelTop.Controls.Add(this.cbKhoa);
+            this.panelTop.Controls.Add(this.lblLop);
+            this.panelTop.Controls.Add(this.cbLop);
+            this.panelTop.Controls.Add(this.btnThem);
+            this.panelTop.Controls.Add(this.btnSua);
+            this.panelTop.Controls.Add(this.btnXoa);
+            this.panelTop.Controls.Add(this.btnLamMoi);
+            this.panelTop.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panelTop.Location = new System.Drawing.Point(0, 0);
+            this.panelTop.Name = "panelTop";
+            this.panelTop.Size = new System.Drawing.Size(1200, 200);
+            this.panelTop.TabIndex = 1;
+            this.panelTop.Paint += new System.Windows.Forms.PaintEventHandler(this.panelTop_Paint);
             // 
             // lblMSSV
             // 
-            this.lblMSSV.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.lblMSSV.Location = new System.Drawing.Point(20, 10);
+            this.lblMSSV.Location = new System.Drawing.Point(30, 65);
             this.lblMSSV.Name = "lblMSSV";
-            this.lblMSSV.Size = new System.Drawing.Size(100, 23);
-            this.lblMSSV.TabIndex = 0;
+            this.lblMSSV.Size = new System.Drawing.Size(61, 23);
+            this.lblMSSV.TabIndex = 1;
             this.lblMSSV.Text = "MSSV";
             // 
             // txtMSSV
             // 
-            this.txtMSSV.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.txtMSSV.Location = new System.Drawing.Point(20, 40);
+            this.txtMSSV.Location = new System.Drawing.Point(97, 60);
             this.txtMSSV.Name = "txtMSSV";
-            this.txtMSSV.Size = new System.Drawing.Size(150, 34);
-            this.txtMSSV.TabIndex = 1;
+            this.txtMSSV.Size = new System.Drawing.Size(143, 26);
+            this.txtMSSV.TabIndex = 2;
             // 
             // lblHoten
             // 
-            this.lblHoten.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.lblHoten.Location = new System.Drawing.Point(200, 10);
+            this.lblHoten.Location = new System.Drawing.Point(260, 65);
             this.lblHoten.Name = "lblHoten";
-            this.lblHoten.Size = new System.Drawing.Size(100, 23);
-            this.lblHoten.TabIndex = 2;
+            this.lblHoten.Size = new System.Drawing.Size(64, 23);
+            this.lblHoten.TabIndex = 3;
             this.lblHoten.Text = "Họ tên";
             // 
             // txtHoten
             // 
-            this.txtHoten.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.txtHoten.Location = new System.Drawing.Point(200, 40);
+            this.txtHoten.Location = new System.Drawing.Point(330, 60);
             this.txtHoten.Name = "txtHoten";
-            this.txtHoten.Size = new System.Drawing.Size(200, 34);
-            this.txtHoten.TabIndex = 3;
-            this.txtHoten.TextChanged += new System.EventHandler(this.txtHoten_TextChanged);
+            this.txtHoten.Size = new System.Drawing.Size(200, 26);
+            this.txtHoten.TabIndex = 4;
             // 
             // lblGioitinh
             // 
-            this.lblGioitinh.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.lblGioitinh.Location = new System.Drawing.Point(430, 10);
+            this.lblGioitinh.Location = new System.Drawing.Point(545, 63);
             this.lblGioitinh.Name = "lblGioitinh";
-            this.lblGioitinh.Size = new System.Drawing.Size(100, 23);
-            this.lblGioitinh.TabIndex = 4;
+            this.lblGioitinh.Size = new System.Drawing.Size(78, 23);
+            this.lblGioitinh.TabIndex = 5;
             this.lblGioitinh.Text = "Giới tính";
             // 
             // cbGioitinh
             // 
             this.cbGioitinh.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cbGioitinh.Font = new System.Drawing.Font("Segoe UI", 10F);
             this.cbGioitinh.Items.AddRange(new object[] {
             "Nam",
             "Nữ"});
-            this.cbGioitinh.Location = new System.Drawing.Point(430, 40);
+            this.cbGioitinh.Location = new System.Drawing.Point(629, 58);
             this.cbGioitinh.Name = "cbGioitinh";
-            this.cbGioitinh.Size = new System.Drawing.Size(100, 36);
-            this.cbGioitinh.TabIndex = 5;
+            this.cbGioitinh.Size = new System.Drawing.Size(83, 28);
+            this.cbGioitinh.TabIndex = 6;
             // 
             // lblKhoa
             // 
-            this.lblKhoa.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.lblKhoa.Location = new System.Drawing.Point(560, 10);
+            this.lblKhoa.Location = new System.Drawing.Point(750, 63);
             this.lblKhoa.Name = "lblKhoa";
-            this.lblKhoa.Size = new System.Drawing.Size(100, 23);
-            this.lblKhoa.TabIndex = 6;
+            this.lblKhoa.Size = new System.Drawing.Size(54, 23);
+            this.lblKhoa.TabIndex = 7;
             this.lblKhoa.Text = "Khoa";
             // 
             // cbKhoa
             // 
-            this.cbKhoa.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.cbKhoa.Location = new System.Drawing.Point(560, 40);
+            this.cbKhoa.Location = new System.Drawing.Point(810, 60);
             this.cbKhoa.Name = "cbKhoa";
-            this.cbKhoa.Size = new System.Drawing.Size(150, 36);
-            this.cbKhoa.TabIndex = 7;
+            this.cbKhoa.Size = new System.Drawing.Size(150, 28);
+            this.cbKhoa.TabIndex = 8;
             // 
             // lblLop
             // 
-            this.lblLop.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.lblLop.Location = new System.Drawing.Point(740, 10);
+            this.lblLop.Location = new System.Drawing.Point(980, 65);
             this.lblLop.Name = "lblLop";
-            this.lblLop.Size = new System.Drawing.Size(100, 23);
-            this.lblLop.TabIndex = 8;
+            this.lblLop.Size = new System.Drawing.Size(41, 23);
+            this.lblLop.TabIndex = 9;
             this.lblLop.Text = "Lớp";
             // 
             // cbLop
             // 
-            this.cbLop.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.cbLop.Location = new System.Drawing.Point(740, 40);
+            this.cbLop.Location = new System.Drawing.Point(1027, 62);
             this.cbLop.Name = "cbLop";
-            this.cbLop.Size = new System.Drawing.Size(150, 36);
-            this.cbLop.TabIndex = 9;
+            this.cbLop.Size = new System.Drawing.Size(140, 28);
+            this.cbLop.TabIndex = 10;
             // 
             // btnThem
             // 
-            this.btnThem.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.btnThem.Location = new System.Drawing.Point(20, 90);
+            this.btnThem.BackColor = System.Drawing.Color.MediumSeaGreen;
+            this.btnThem.FlatAppearance.BorderSize = 0;
+            this.btnThem.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnThem.ForeColor = System.Drawing.Color.White;
+            this.btnThem.Location = new System.Drawing.Point(200, 110);
             this.btnThem.Name = "btnThem";
-            this.btnThem.Size = new System.Drawing.Size(90, 35);
-            this.btnThem.TabIndex = 10;
+            this.btnThem.Size = new System.Drawing.Size(100, 40);
+            this.btnThem.TabIndex = 11;
             this.btnThem.Text = "Thêm";
+            this.btnThem.UseVisualStyleBackColor = false;
+            this.btnThem.Click += new System.EventHandler(this.btnThem_Click_1);
             // 
             // btnSua
             // 
-            this.btnSua.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.btnSua.Location = new System.Drawing.Point(120, 90);
+            this.btnSua.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(120)))), ((int)(((byte)(215)))));
+            this.btnSua.FlatAppearance.BorderSize = 0;
+            this.btnSua.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnSua.ForeColor = System.Drawing.Color.White;
+            this.btnSua.Location = new System.Drawing.Point(320, 110);
             this.btnSua.Name = "btnSua";
-            this.btnSua.Size = new System.Drawing.Size(90, 35);
-            this.btnSua.TabIndex = 11;
+            this.btnSua.Size = new System.Drawing.Size(100, 40);
+            this.btnSua.TabIndex = 12;
             this.btnSua.Text = "Sửa";
+            this.btnSua.UseVisualStyleBackColor = false;
+            this.btnSua.Click += new System.EventHandler(this.btnSua_Click_1);
             // 
             // btnXoa
             // 
-            this.btnXoa.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.btnXoa.Location = new System.Drawing.Point(220, 90);
+            this.btnXoa.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(53)))), ((int)(((byte)(69)))));
+            this.btnXoa.FlatAppearance.BorderSize = 0;
+            this.btnXoa.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnXoa.ForeColor = System.Drawing.Color.White;
+            this.btnXoa.Location = new System.Drawing.Point(440, 110);
             this.btnXoa.Name = "btnXoa";
-            this.btnXoa.Size = new System.Drawing.Size(90, 35);
-            this.btnXoa.TabIndex = 12;
+            this.btnXoa.Size = new System.Drawing.Size(100, 40);
+            this.btnXoa.TabIndex = 13;
             this.btnXoa.Text = "Xóa";
+            this.btnXoa.UseVisualStyleBackColor = false;
             // 
-            // btnClear
+            // btnLamMoi
             // 
-            this.btnClear.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.btnClear.Location = new System.Drawing.Point(327, 90);
-            this.btnClear.Name = "btnClear";
-            this.btnClear.Size = new System.Drawing.Size(110, 35);
-            this.btnClear.TabIndex = 13;
-            this.btnClear.Text = "Làm mới";
+            this.btnLamMoi.BackColor = System.Drawing.Color.Gray;
+            this.btnLamMoi.FlatAppearance.BorderSize = 0;
+            this.btnLamMoi.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnLamMoi.ForeColor = System.Drawing.Color.White;
+            this.btnLamMoi.Location = new System.Drawing.Point(560, 110);
+            this.btnLamMoi.Name = "btnLamMoi";
+            this.btnLamMoi.Size = new System.Drawing.Size(100, 40);
+            this.btnLamMoi.TabIndex = 14;
+            this.btnLamMoi.Text = "Làm mới";
+            this.btnLamMoi.UseVisualStyleBackColor = false;
+            // 
+            // dgvSinhVien
+            // 
+            this.dgvSinhVien.AllowUserToAddRows = false;
+            this.dgvSinhVien.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dgvSinhVien.BackgroundColor = System.Drawing.SystemColors.ButtonFace;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.RoyalBlue;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.RoyalBlue;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvSinhVien.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            this.dgvSinhVien.ColumnHeadersHeight = 35;
+            this.dgvSinhVien.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.dataGridViewTextBoxColumn1,
+            this.dataGridViewTextBoxColumn2,
+            this.dataGridViewTextBoxColumn3,
+            this.dataGridViewTextBoxColumn4,
+            this.dataGridViewTextBoxColumn5,
+            this.dataGridViewTextBoxColumn6});
+            this.dgvSinhVien.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dgvSinhVien.EnableHeadersVisualStyles = false;
+            this.dgvSinhVien.Location = new System.Drawing.Point(0, 200);
+            this.dgvSinhVien.Name = "dgvSinhVien";
+            this.dgvSinhVien.RowHeadersWidth = 62;
+            this.dgvSinhVien.Size = new System.Drawing.Size(1200, 500);
+            this.dgvSinhVien.TabIndex = 0;
+            // 
+            // dataGridViewTextBoxColumn1
+            // 
+            this.dataGridViewTextBoxColumn1.HeaderText = "MSSV";
+            this.dataGridViewTextBoxColumn1.MinimumWidth = 8;
+            this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
+            // 
+            // dataGridViewTextBoxColumn2
+            // 
+            this.dataGridViewTextBoxColumn2.HeaderText = "Họ tên";
+            this.dataGridViewTextBoxColumn2.MinimumWidth = 8;
+            this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
+            // 
+            // dataGridViewTextBoxColumn3
+            // 
+            this.dataGridViewTextBoxColumn3.HeaderText = "SĐT";
+            this.dataGridViewTextBoxColumn3.MinimumWidth = 8;
+            this.dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
+            // 
+            // dataGridViewTextBoxColumn4
+            // 
+            this.dataGridViewTextBoxColumn4.HeaderText = "Giới tính";
+            this.dataGridViewTextBoxColumn4.MinimumWidth = 8;
+            this.dataGridViewTextBoxColumn4.Name = "dataGridViewTextBoxColumn4";
+            // 
+            // dataGridViewTextBoxColumn5
+            // 
+            this.dataGridViewTextBoxColumn5.HeaderText = "Khoa";
+            this.dataGridViewTextBoxColumn5.MinimumWidth = 8;
+            this.dataGridViewTextBoxColumn5.Name = "dataGridViewTextBoxColumn5";
+            // 
+            // dataGridViewTextBoxColumn6
+            // 
+            this.dataGridViewTextBoxColumn6.HeaderText = "Ngày sinh";
+            this.dataGridViewTextBoxColumn6.MinimumWidth = 8;
+            this.dataGridViewTextBoxColumn6.Name = "dataGridViewTextBoxColumn6";
             // 
             // Quanlysinhvien
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(906, 450);
-            this.Controls.Add(this.panel2);
-            this.Controls.Add(this.panel1);
+            this.ClientSize = new System.Drawing.Size(1200, 700);
+            this.Controls.Add(this.dgvSinhVien);
+            this.Controls.Add(this.panelTop);
             this.Name = "Quanlysinhvien";
             this.Text = "Quản lý sinh viên";
-            this.panel1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
-            this.panel2.ResumeLayout(false);
-            this.panel2.PerformLayout();
+            this.panelTop.ResumeLayout(false);
+            this.panelTop.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvSinhVien)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
-        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
-        private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.DataGridView dataGridView1;
-        private System.ComponentModel.BackgroundWorker backgroundWorker1;
-        private System.Windows.Forms.FolderBrowserDialog folderBrowserDialog1;
-        private System.Windows.Forms.FolderBrowserDialog folderBrowserDialog2;
-        private Label lblMSSV;
-        private TextBox txtMSSV;
-        private Label lblHoten;
-        private TextBox txtHoten;
-        private Label lblGioitinh;
+
+        private Panel panelTop;
+        private Label lblMSSV, lblHoten, lblGioitinh, lblKhoa, lblLop;
+        private TextBox txtMSSV, txtHoten;
         private ComboBox cbGioitinh;
-        private Label lblKhoa;
+        private Button btnThem, btnSua, btnXoa, btnLamMoi;
+        private DataGridView dgvSinhVien;
+        private DataGridViewTextBoxColumn dataGridViewTextBoxColumn1;
+        private DataGridViewTextBoxColumn dataGridViewTextBoxColumn2;
+        private DataGridViewTextBoxColumn dataGridViewTextBoxColumn3;
+        private DataGridViewTextBoxColumn dataGridViewTextBoxColumn4;
+        private DataGridViewTextBoxColumn dataGridViewTextBoxColumn5;
+        private DataGridViewTextBoxColumn dataGridViewTextBoxColumn6;
         private ComboBox cbKhoa;
-        private Label lblLop;
         private ComboBox cbLop;
-        private Button btnThem;
-        private Button btnSua;
-        private Button btnXoa;
-        private Button btnClear;
-        private DataGridViewTextBoxColumn MSSV;
-        private DataGridViewTextBoxColumn fullname;
-        private DataGridViewTextBoxColumn Phone;
-        private DataGridViewTextBoxColumn Gioitinh;
-        private DataGridViewTextBoxColumn Khoa;
-        private DataGridViewTextBoxColumn Date;
     }
 }

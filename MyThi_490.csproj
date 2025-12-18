@@ -46,7 +46,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BLL\KetQuaBLL.cs" />
+    <Compile Include="BLL\KhoaBLL.cs" />
+    <Compile Include="BLL\LopBLL.cs" />
+    <Compile Include="BLL\MonHocBLL.cs" />
+    <Compile Include="BLL\SinhVienBLL.cs" />
+    <Compile Include="BLL\ThiBLL.cs" />
     <Compile Include="BLL\UserBLL.cs" />
+    <Compile Include="DAL\CoVanDAL.cs" />
+    <Compile Include="DAL\FakeData.cs" />
+    <Compile Include="DAL\KetQuaDAL.cs" />
+    <Compile Include="DAL\KhoaDAL.cs" />
+    <Compile Include="DAL\LopDAL.cs" />
+    <Compile Include="DAL\MonHocDAL.cs" />
+    <Compile Include="DAL\SinhVienDAL.cs" />
     <Compile Include="DAL\UserDAL.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -54,17 +67,36 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form2.cs">
+    <Compile Include="BLL\CoVanBLL.cs" />
+    <Compile Include="GUI\Dashboard.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form2.Designer.cs">
-      <DependentUpon>Form2.cs</DependentUpon>
+    <Compile Include="GUI\Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
     </Compile>
     <Compile Include="GUI\Login.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="GUI\Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Phanquyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Phanquyen.Designer.cs">
+      <DependentUpon>Phanquyen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\QuanLyCoVan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\QuanLyCoVan.Designer.cs">
+      <DependentUpon>QuanLyCoVan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Quanlydiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Quanlydiem.Designer.cs">
+      <DependentUpon>Quanlydiem.cs</DependentUpon>
     </Compile>
     <Compile Include="GUI\Quanlykhoa.cs">
       <SubType>Form</SubType>
@@ -78,17 +110,41 @@
     <Compile Include="GUI\Quanlylop.Designer.cs">
       <DependentUpon>Quanlylop.cs</DependentUpon>
     </Compile>
+    <Compile Include="GUI\Quanlymonhoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Quanlymonhoc.Designer.cs">
+      <DependentUpon>Quanlymonhoc.cs</DependentUpon>
+    </Compile>
     <Compile Include="GUI\Quanlysinhvien.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="GUI\Quanlysinhvien.Designer.cs">
       <DependentUpon>Quanlysinhvien.cs</DependentUpon>
     </Compile>
-    <Compile Include="GUI\Register.cs">
+    <Compile Include="GUI\Change.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GUI\Register.Designer.cs">
-      <DependentUpon>Register.cs</DependentUpon>
+    <Compile Include="GUI\Change.Designer.cs">
+      <DependentUpon>Change.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Thitracnghiem\FrmKetQua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Thitracnghiem\FrmKetQua.Designer.cs">
+      <DependentUpon>FrmKetQua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Thitracnghiem\FrmLamBai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Thitracnghiem\FrmLamBai.Designer.cs">
+      <DependentUpon>FrmLamBai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Thitracnghiem\FrmThiSinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Thitracnghiem\FrmThiSinh.Designer.cs">
+      <DependentUpon>FrmThiSinh.cs</DependentUpon>
     </Compile>
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
@@ -102,14 +158,35 @@
     <Compile Include="Menu.Designer.cs">
       <DependentUpon>Menu.cs</DependentUpon>
     </Compile>
+    <Compile Include="Model\CoVan.cs" />
+    <Compile Include="Model\KetQua.cs" />
+    <Compile Include="Model\Khoa.cs" />
+    <Compile Include="Model\Lop.cs" />
+    <Compile Include="Model\MonHoc.cs" />
+    <Compile Include="Model\SinhVien.cs" />
+    <Compile Include="Model\Thitracnghiem\CauHoi.cs" />
+    <Compile Include="Model\Thitracnghiem\KetQua.cs" />
+    <Compile Include="Model\Thitracnghiem\ThiSinh.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="User.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GUI\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Phanquyen.resx">
+      <DependentUpon>Phanquyen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\QuanLyCoVan.resx">
+      <DependentUpon>QuanLyCoVan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Quanlydiem.resx">
+      <DependentUpon>Quanlydiem.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\Quanlykhoa.resx">
       <DependentUpon>Quanlykhoa.cs</DependentUpon>
@@ -117,11 +194,20 @@
     <EmbeddedResource Include="GUI\Quanlylop.resx">
       <DependentUpon>Quanlylop.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Quanlymonhoc.resx">
+      <DependentUpon>Quanlymonhoc.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GUI\Quanlysinhvien.resx">
       <DependentUpon>Quanlysinhvien.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="GUI\Register.resx">
-      <DependentUpon>Register.cs</DependentUpon>
+    <EmbeddedResource Include="GUI\Change.resx">
+      <DependentUpon>Change.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Thitracnghiem\FrmLamBai.resx">
+      <DependentUpon>FrmLamBai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Thitracnghiem\FrmThiSinh.resx">
+      <DependentUpon>FrmThiSinh.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>

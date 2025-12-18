@@ -3,100 +3,144 @@
   "WorkspaceRootPath": "D:\\window\\MyThi_490\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\quanlylop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\quanlylop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\thitracnghiem\\frmlambai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\thitracnghiem\\frmlambai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\quanlylop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\quanlylop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\thitracnghiem\\frmketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\thitracnghiem\\frmketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\quanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\quanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\thitracnghiem\\frmketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\thitracnghiem\\frmketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|D:\\window\\MyThi_490\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\bll\\thibll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:bll\\thibll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\quanlysinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\quanlysinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\thitracnghiem\\frmlambai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\thitracnghiem\\frmlambai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\thitracnghiem\\frmthisinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\thitracnghiem\\frmthisinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\thitracnghiem\\frmthisinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\thitracnghiem\\frmthisinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\model\\thitracnghiem\\thisinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:model\\thitracnghiem\\thisinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\dal\\fakedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:dal\\fakedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\model\\thitracnghiem\\ketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:model\\thitracnghiem\\ketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\model\\ketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:model\\ketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\thitracnghiem\\frmthisinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\thitracnghiem\\frmthisinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\thitracnghiem\\frmlambai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\thitracnghiem\\frmlambai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\thitracnghiem\\frmketqua.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\thitracnghiem\\frmketqua.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\model\\thitracnghiem\\cauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:model\\thitracnghiem\\cauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\quanlycovan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\quanlycovan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\quanlykhoa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\quanlykhoa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\quanlydiem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\quanlydiem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\quanlydiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\quanlydiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\quanlycovan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\quanlycovan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\quanlymonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\quanlymonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\quanlymonhoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\quanlymonhoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\quanlylop.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\quanlylop.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\quanlylop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\quanlylop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\quanlylop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\quanlylop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\quanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\quanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\phanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\phanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\change.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\change.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\quanlysinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\quanlysinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|D:\\window\\MyThi_490\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|D:\\window\\MyThi_490\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|D:\\window\\MyThi_490\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|D:\\window\\MyThi_490\\gui\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|D:\\window\\MyThi_490\\gui\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|D:\\window\\MyThi_490\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|d:\\window\\mythi_490\\gui\\quanlysinhvien.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\quanlysinhvien.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|D:\\window\\MyThi_490\\bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|D:\\window\\MyThi_490\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|D:\\window\\MyThi_490\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|D:\\window\\MyThi_490\\menu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:menu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|D:\\window\\MyThi_490\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|D:\\window\\MyThi_490\\gui\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:gui\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|D:\\window\\MyThi_490\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|D:\\window\\MyThi_490\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A3D26A-F692-46B7-AD7B-35C2CC89DD7C}|MyThi_490.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,299 +150,448 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Quanlysinhvien.Designer.cs",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Quanlysinhvien.Designer.cs",
-              "RelativeDocumentMoniker": "GUI\\Quanlysinhvien.Designer.cs",
-              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Quanlysinhvien.Designer.cs",
-              "RelativeToolTip": "GUI\\Quanlysinhvien.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FrmLamBai.cs",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Thitracnghiem\\FrmLamBai.cs",
+              "RelativeDocumentMoniker": "GUI\\Thitracnghiem\\FrmLamBai.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Thitracnghiem\\FrmLamBai.cs",
+              "RelativeToolTip": "GUI\\Thitracnghiem\\FrmLamBai.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwv2AAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T16:03:50.993Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-12-18T15:54:02.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Quanlylop.cs",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Quanlylop.cs",
-              "RelativeDocumentMoniker": "GUI\\Quanlylop.cs",
-              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Quanlylop.cs",
-              "RelativeToolTip": "GUI\\Quanlylop.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
+              "Title": "FrmKetQua.cs",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Thitracnghiem\\FrmKetQua.cs",
+              "RelativeDocumentMoniker": "GUI\\Thitracnghiem\\FrmKetQua.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Thitracnghiem\\FrmKetQua.cs",
+              "RelativeToolTip": "GUI\\Thitracnghiem\\FrmKetQua.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T04:14:00.635Z",
+              "WhenOpened": "2025-12-18T15:54:21.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Quanlylop.cs [Design]",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Quanlylop.cs",
-              "RelativeDocumentMoniker": "GUI\\Quanlylop.cs",
-              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Quanlylop.cs [Design]",
-              "RelativeToolTip": "GUI\\Quanlylop.cs [Design]",
+              "DocumentIndex": 6,
+              "Title": "FrmThiSinh.cs [Design]",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Thitracnghiem\\FrmThiSinh.cs",
+              "RelativeDocumentMoniker": "GUI\\Thitracnghiem\\FrmThiSinh.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Thitracnghiem\\FrmThiSinh.cs [Design]",
+              "RelativeToolTip": "GUI\\Thitracnghiem\\FrmThiSinh.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T04:14:00.22Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Login.cs",
-              "RelativeDocumentMoniker": "GUI\\Login.cs",
-              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Login.cs [Design]",
-              "RelativeToolTip": "GUI\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T02:20:53.329Z",
+              "WhenOpened": "2025-12-18T15:49:33.937Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Quanlykhoa.cs [Design]",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Quanlykhoa.cs",
-              "RelativeDocumentMoniker": "GUI\\Quanlykhoa.cs",
-              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Quanlykhoa.cs [Design]",
-              "RelativeToolTip": "GUI\\Quanlykhoa.cs [Design]",
+              "Title": "FrmKetQua.cs [Design]",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Thitracnghiem\\FrmKetQua.cs",
+              "RelativeDocumentMoniker": "GUI\\Thitracnghiem\\FrmKetQua.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Thitracnghiem\\FrmKetQua.cs [Design]",
+              "RelativeToolTip": "GUI\\Thitracnghiem\\FrmKetQua.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T03:09:17.124Z",
+              "WhenOpened": "2025-12-18T15:49:59.879Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThiBLL.cs",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\BLL\\ThiBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\ThiBLL.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\BLL\\ThiBLL.cs",
+              "RelativeToolTip": "BLL\\ThiBLL.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:50:19.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmLamBai.cs [Design]",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Thitracnghiem\\FrmLamBai.cs",
+              "RelativeDocumentMoniker": "GUI\\Thitracnghiem\\FrmLamBai.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Thitracnghiem\\FrmLamBai.cs [Design]",
+              "RelativeToolTip": "GUI\\Thitracnghiem\\FrmLamBai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:49:47.853Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThiSinh.cs",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\Model\\Thitracnghiem\\ThiSinh.cs",
+              "RelativeDocumentMoniker": "Model\\Thitracnghiem\\ThiSinh.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\Model\\Thitracnghiem\\ThiSinh.cs",
+              "RelativeToolTip": "Model\\Thitracnghiem\\ThiSinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:51:43.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "FrmThiSinh.cs",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Thitracnghiem\\FrmThiSinh.cs",
+              "RelativeDocumentMoniker": "GUI\\Thitracnghiem\\FrmThiSinh.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Thitracnghiem\\FrmThiSinh.cs",
+              "RelativeToolTip": "GUI\\Thitracnghiem\\FrmThiSinh.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAMwCMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:53:51.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FakeData.cs",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\DAL\\FakeData.cs",
+              "RelativeDocumentMoniker": "DAL\\FakeData.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\DAL\\FakeData.cs",
+              "RelativeToolTip": "DAL\\FakeData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:50:33.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAMwKQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T16:13:13.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KetQua.cs",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\Model\\Thitracnghiem\\KetQua.cs",
+              "RelativeDocumentMoniker": "Model\\Thitracnghiem\\KetQua.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\Model\\Thitracnghiem\\KetQua.cs",
+              "RelativeToolTip": "Model\\Thitracnghiem\\KetQua.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:52:53.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KetQua.cs",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\Model\\KetQua.cs",
+              "RelativeDocumentMoniker": "Model\\KetQua.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\Model\\KetQua.cs",
+              "RelativeToolTip": "Model\\KetQua.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T16:09:45.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "D:\\window\\MyThi_490\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
               "ToolTip": "D:\\window\\MyThi_490\\MainForm.cs [Design]",
               "RelativeToolTip": "MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T02:56:26.439Z",
+              "WhenOpened": "2025-12-18T16:09:10.686Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Quanlysinhvien.cs",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Quanlysinhvien.cs",
-              "RelativeDocumentMoniker": "GUI\\Quanlysinhvien.cs",
-              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Quanlysinhvien.cs",
-              "RelativeToolTip": "GUI\\Quanlysinhvien.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAASwDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T16:03:40.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\Menu.cs",
-              "RelativeDocumentMoniker": "Menu.cs",
-              "ToolTip": "D:\\window\\MyThi_490\\Menu.cs",
-              "RelativeToolTip": "Menu.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwC0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T01:44:07.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\MainForm.Designer.cs",
-              "RelativeDocumentMoniker": "MainForm.Designer.cs",
-              "ToolTip": "D:\\window\\MyThi_490\\MainForm.Designer.cs",
-              "RelativeToolTip": "MainForm.Designer.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAuwJAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T02:58:01.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainForm.resx",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\MainForm.resx",
-              "RelativeDocumentMoniker": "MainForm.resx",
-              "ToolTip": "D:\\window\\MyThi_490\\MainForm.resx",
-              "RelativeToolTip": "MainForm.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-12-12T02:58:00.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "D:\\window\\MyThi_490\\Form2.cs [Design]",
-              "RelativeToolTip": "Form2.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:31:25.681Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\window\\MyThi_490\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T01:22:23.258Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Register.cs [Design]",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Register.cs",
-              "RelativeDocumentMoniker": "GUI\\Register.cs",
-              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Register.cs [Design]",
-              "RelativeToolTip": "GUI\\Register.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T01:24:04.898Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Register.cs",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Register.cs",
-              "RelativeDocumentMoniker": "GUI\\Register.cs",
-              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Register.cs",
-              "RelativeToolTip": "GUI\\Register.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAApwB8AAAAAAAAAAAAAAA==",
+              "Title": "FrmThiSinh.Designer.cs",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Thitracnghiem\\FrmThiSinh.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\Thitracnghiem\\FrmThiSinh.Designer.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Thitracnghiem\\FrmThiSinh.Designer.cs",
+              "RelativeToolTip": "GUI\\Thitracnghiem\\FrmThiSinh.Designer.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAcwBEBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T01:39:43.037Z"
+              "WhenOpened": "2025-12-18T15:55:17.233Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Menu.Designer.cs",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\Menu.Designer.cs",
-              "RelativeDocumentMoniker": "Menu.Designer.cs",
-              "ToolTip": "D:\\window\\MyThi_490\\Menu.Designer.cs",
-              "RelativeToolTip": "Menu.Designer.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAIAwwI4AAAAAAAAAAAAAAA==",
+              "Title": "FrmLamBai.Designer.cs",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Thitracnghiem\\FrmLamBai.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\Thitracnghiem\\FrmLamBai.Designer.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Thitracnghiem\\FrmLamBai.Designer.cs",
+              "RelativeToolTip": "GUI\\Thitracnghiem\\FrmLamBai.Designer.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAcwMMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T02:43:34.635Z",
+              "WhenOpened": "2025-12-18T15:54:53.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Quanlysinhvien.resx",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Quanlysinhvien.resx",
-              "RelativeDocumentMoniker": "GUI\\Quanlysinhvien.resx",
-              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Quanlysinhvien.resx",
-              "RelativeToolTip": "GUI\\Quanlysinhvien.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-12-11T16:03:51.499Z",
+              "Title": "FrmKetQua.Designer.cs",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Thitracnghiem\\FrmKetQua.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\Thitracnghiem\\FrmKetQua.Designer.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Thitracnghiem\\FrmKetQua.Designer.cs",
+              "RelativeToolTip": "GUI\\Thitracnghiem\\FrmKetQua.Designer.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAcwOMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:54:41.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CauHoi.cs",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\Model\\Thitracnghiem\\CauHoi.cs",
+              "RelativeDocumentMoniker": "Model\\Thitracnghiem\\CauHoi.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\Model\\Thitracnghiem\\CauHoi.cs",
+              "RelativeToolTip": "Model\\Thitracnghiem\\CauHoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:52:16.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Quanlydiem.cs [Design]",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Quanlydiem.cs",
+              "RelativeDocumentMoniker": "GUI\\Quanlydiem.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Quanlydiem.cs [Design]",
+              "RelativeToolTip": "GUI\\Quanlydiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:54:48.252Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Quanlydiem.Designer.cs",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Quanlydiem.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\Quanlydiem.Designer.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Quanlydiem.Designer.cs",
+              "RelativeToolTip": "GUI\\Quanlydiem.Designer.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAMwIQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:18:25.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Quanlykhoa.Designer.cs",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Quanlykhoa.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\Quanlykhoa.Designer.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Quanlykhoa.Designer.cs",
+              "RelativeToolTip": "GUI\\Quanlykhoa.Designer.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAMwJoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:18:12.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "D:\\window\\MyThi_490\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Title": "QuanLyCoVan.Designer.cs",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\QuanLyCoVan.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\QuanLyCoVan.Designer.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\QuanLyCoVan.Designer.cs",
+              "RelativeToolTip": "GUI\\QuanLyCoVan.Designer.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAYwK4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T01:25:52.593Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserBLL.cs",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\BLL\\UserBLL.cs",
-              "RelativeDocumentMoniker": "BLL\\UserBLL.cs",
-              "ToolTip": "D:\\window\\MyThi_490\\BLL\\UserBLL.cs",
-              "RelativeToolTip": "BLL\\UserBLL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T01:23:27.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UserDAL.cs",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\DAL\\UserDAL.cs",
-              "RelativeDocumentMoniker": "DAL\\UserDAL.cs",
-              "ToolTip": "D:\\window\\MyThi_490\\DAL\\UserDAL.cs",
-              "RelativeToolTip": "DAL\\UserDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T01:23:39.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\User.cs",
-              "RelativeDocumentMoniker": "User.cs",
-              "ToolTip": "D:\\window\\MyThi_490\\User.cs",
-              "RelativeToolTip": "User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T01:32:14.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Menu.resx",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\Menu.resx",
-              "RelativeDocumentMoniker": "Menu.resx",
-              "ToolTip": "D:\\window\\MyThi_490\\Menu.resx",
-              "RelativeToolTip": "Menu.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-12-05T02:32:04.865Z",
+              "WhenOpened": "2025-12-18T15:18:46.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "Login.resx",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Login.resx",
-              "RelativeDocumentMoniker": "GUI\\Login.resx",
-              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Login.resx",
-              "RelativeToolTip": "GUI\\Login.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-12-05T02:39:50.127Z",
+              "Title": "QuanLyCoVan.cs [Design]",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\QuanLyCoVan.cs",
+              "RelativeDocumentMoniker": "GUI\\QuanLyCoVan.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\QuanLyCoVan.cs [Design]",
+              "RelativeToolTip": "GUI\\QuanLyCoVan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:54:50.314Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Quanlymonhoc.Designer.cs",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Quanlymonhoc.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\Quanlymonhoc.Designer.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Quanlymonhoc.Designer.cs",
+              "RelativeToolTip": "GUI\\Quanlymonhoc.Designer.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAYwHkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:17:44.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Form1.resx",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\Form1.resx",
-              "RelativeDocumentMoniker": "Form1.resx",
-              "ToolTip": "D:\\window\\MyThi_490\\Form1.resx",
-              "RelativeToolTip": "Form1.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-11-28T01:45:39.723Z"
+              "Title": "Quanlymonhoc.cs [Design]",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Quanlymonhoc.cs",
+              "RelativeDocumentMoniker": "GUI\\Quanlymonhoc.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Quanlymonhoc.cs [Design]",
+              "RelativeToolTip": "GUI\\Quanlymonhoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:49:41.218Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\window\\MyThi_490\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\window\\MyThi_490\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAA4wFUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "Quanlylop.Designer.cs",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Quanlylop.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\Quanlylop.Designer.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Quanlylop.Designer.cs",
+              "RelativeToolTip": "GUI\\Quanlylop.Designer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwK4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T01:27:57.713Z"
+              "WhenOpened": "2025-12-18T15:17:58.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Quanlylop.cs",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Quanlylop.cs",
+              "RelativeDocumentMoniker": "GUI\\Quanlylop.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Quanlylop.cs",
+              "RelativeToolTip": "GUI\\Quanlylop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAEwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:23:29.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Quanlylop.cs [Design]",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Quanlylop.cs",
+              "RelativeDocumentMoniker": "GUI\\Quanlylop.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Quanlylop.cs [Design]",
+              "RelativeToolTip": "GUI\\Quanlylop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:55:06.482Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Quanlykhoa.cs [Design]",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Quanlykhoa.cs",
+              "RelativeDocumentMoniker": "GUI\\Quanlykhoa.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Quanlykhoa.cs [Design]",
+              "RelativeToolTip": "GUI\\Quanlykhoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:54:56.587Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Phanquyen.cs [Design]",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Phanquyen.cs",
+              "RelativeDocumentMoniker": "GUI\\Phanquyen.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Phanquyen.cs [Design]",
+              "RelativeToolTip": "GUI\\Phanquyen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:01:45.351Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "GUI\\Login.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Login.cs [Design]",
+              "RelativeToolTip": "GUI\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:19:59.564Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Dashboard.cs",
+              "RelativeDocumentMoniker": "GUI\\Dashboard.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Dashboard.cs [Design]",
+              "RelativeToolTip": "GUI\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:58:16.519Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Change.cs [Design]",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Change.cs",
+              "RelativeDocumentMoniker": "GUI\\Change.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Change.cs [Design]",
+              "RelativeToolTip": "GUI\\Change.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:00:41.201Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Quanlysinhvien.cs [Design]",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Quanlysinhvien.cs",
+              "RelativeDocumentMoniker": "GUI\\Quanlysinhvien.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Quanlysinhvien.cs [Design]",
+              "RelativeToolTip": "GUI\\Quanlysinhvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:55:42.862Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Quanlysinhvien.Designer.cs",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Quanlysinhvien.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\Quanlysinhvien.Designer.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Quanlysinhvien.Designer.cs",
+              "RelativeToolTip": "GUI\\Quanlysinhvien.Designer.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAYwNYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:14:38.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Quanlysinhvien.cs",
+              "DocumentMoniker": "D:\\window\\MyThi_490\\GUI\\Quanlysinhvien.cs",
+              "RelativeDocumentMoniker": "GUI\\Quanlysinhvien.cs",
+              "ToolTip": "D:\\window\\MyThi_490\\GUI\\Quanlysinhvien.cs",
+              "RelativeToolTip": "GUI\\Quanlysinhvien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:14:35.973Z",
+              "EditorCaption": ""
             }
           ]
         }

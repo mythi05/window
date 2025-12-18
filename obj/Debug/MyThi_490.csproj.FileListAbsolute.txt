@@ -18,7 +18,6 @@ D:\window\MyThi_490\obj\Debug\MyThi_490.csproj.AssemblyReference.cache
 D:\window\MyThi_490\obj\Debug\MyThi_490.Form1.resources
 D:\window\MyThi_490\obj\Debug\MyThi_490.GUI.Login.resources
 D:\window\MyThi_490\obj\Debug\MyThi_490.GUI.Quanlysinhvien.resources
-D:\window\MyThi_490\obj\Debug\MyThi_490.GUI.Register.resources
 D:\window\MyThi_490\obj\Debug\MyThi_490.Menu.resources
 D:\window\MyThi_490\obj\Debug\MyThi_490.Properties.Resources.resources
 D:\window\MyThi_490\obj\Debug\MyThi_490.csproj.GenerateResource.cache
@@ -27,3 +26,12 @@ D:\window\MyThi_490\obj\Debug\MyThi_490.exe
 D:\window\MyThi_490\obj\Debug\MyThi_490.pdb
 D:\window\MyThi_490\obj\Debug\MyThi_490.MainForm.resources
 D:\window\MyThi_490\obj\Debug\MyThi_490.GUI.Quanlykhoa.resources
+D:\window\MyThi_490\obj\Debug\MyThi_490.GUI.Quanlylop.resources
+D:\window\MyThi_490\obj\Debug\MyThi_490.GUI.Quanlycovan.resources
+D:\window\MyThi_490\obj\Debug\MyThi_490.GUI.Quanlydiem.resources
+D:\window\MyThi_490\obj\Debug\MyThi_490.GUI.Quanlymonhoc.resources
+D:\window\MyThi_490\obj\Debug\MyThi_490.GUI.Change.resources
+D:\window\MyThi_490\obj\Debug\MyThi_490.GUI.Phanquyen.resources
+D:\window\MyThi_490\obj\Debug\MyThi_490.GUI.Dashboard.resources
+D:\window\MyThi_490\obj\Debug\MyThi_490.GUI.FrmLamBai.resources
+D:\window\MyThi_490\obj\Debug\MyThi_490.GUI.FrmThiSinh.resources
