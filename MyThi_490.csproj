@@ -46,6 +46,190 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Baitap\Bai10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai10.Designer.cs">
+      <DependentUpon>Bai10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai11.Designer.cs">
+      <DependentUpon>Bai11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai12.Designer.cs">
+      <DependentUpon>Bai12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai13.Designer.cs">
+      <DependentUpon>Bai13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai14.Designer.cs">
+      <DependentUpon>Bai14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai15.Designer.cs">
+      <DependentUpon>Bai15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai16.Designer.cs">
+      <DependentUpon>Bai16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai17.Designer.cs">
+      <DependentUpon>Bai17.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai18.Designer.cs">
+      <DependentUpon>Bai18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai19.Designer.cs">
+      <DependentUpon>Bai19.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai2.Designer.cs">
+      <DependentUpon>Bai2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai20.Designer.cs">
+      <DependentUpon>Bai20.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai21.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai21.Designer.cs">
+      <DependentUpon>Bai21.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai22.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai22.Designer.cs">
+      <DependentUpon>Bai22.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai23.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai23.Designer.cs">
+      <DependentUpon>Bai23.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai24.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai24.Designer.cs">
+      <DependentUpon>Bai24.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai25.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai25.Designer.cs">
+      <DependentUpon>Bai25.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai26.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai26.Designer.cs">
+      <DependentUpon>Bai26.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai27.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai27.Designer.cs">
+      <DependentUpon>Bai27.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai28.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai28.Designer.cs">
+      <DependentUpon>Bai28.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai29.Designer.cs">
+      <DependentUpon>Bai29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai3.Designer.cs">
+      <DependentUpon>Bai3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai30.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai30.Designer.cs">
+      <DependentUpon>Bai30.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai31.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai31.Designer.cs">
+      <DependentUpon>Bai31.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai4.Designer.cs">
+      <DependentUpon>Bai4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai5.Designer.cs">
+      <DependentUpon>Bai5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai6.Designer.cs">
+      <DependentUpon>Bai6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai7.Designer.cs">
+      <DependentUpon>Bai7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai8.Designer.cs">
+      <DependentUpon>Bai8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Bai9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baitap\Bai9.Designer.cs">
+      <DependentUpon>Bai9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baitap\Employee.cs" />
+    <Compile Include="Baitap\Faculty.cs" />
+    <Compile Include="Baitap\InfoWindow.cs" />
+    <Compile Include="Baitap\Song.cs" />
     <Compile Include="BLL\KetQuaBLL.cs" />
     <Compile Include="BLL\KhoaBLL.cs" />
     <Compile Include="BLL\LopBLL.cs" />
@@ -61,11 +245,11 @@
     <Compile Include="DAL\MonHocDAL.cs" />
     <Compile Include="DAL\SinhVienDAL.cs" />
     <Compile Include="DAL\UserDAL.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="Baitap\Bai1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Baitap\Bai1.Designer.cs">
+      <DependentUpon>Bai1.cs</DependentUpon>
     </Compile>
     <Compile Include="BLL\CoVanBLL.cs" />
     <Compile Include="GUI\Dashboard.cs">
@@ -170,8 +354,53 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="User.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Baitap\Bai12.resx">
+      <DependentUpon>Bai12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baitap\Bai13.resx">
+      <DependentUpon>Bai13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baitap\Bai15.resx">
+      <DependentUpon>Bai15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baitap\Bai16.resx">
+      <DependentUpon>Bai16.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baitap\Bai19.resx">
+      <DependentUpon>Bai19.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baitap\Bai2.resx">
+      <DependentUpon>Bai2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baitap\Bai26.resx">
+      <DependentUpon>Bai26.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baitap\Bai28.resx">
+      <DependentUpon>Bai28.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baitap\Bai29.resx">
+      <DependentUpon>Bai29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baitap\Bai3.resx">
+      <DependentUpon>Bai3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baitap\Bai30.resx">
+      <DependentUpon>Bai30.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baitap\Bai4.resx">
+      <DependentUpon>Bai4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baitap\Bai5.resx">
+      <DependentUpon>Bai5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baitap\Bai6.resx">
+      <DependentUpon>Bai6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baitap\Bai8.resx">
+      <DependentUpon>Bai8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baitap\Bai1.resx">
+      <DependentUpon>Bai1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\Dashboard.resx">
       <DependentUpon>Dashboard.cs</DependentUpon>
@@ -202,6 +431,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\Change.resx">
       <DependentUpon>Change.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Thitracnghiem\FrmKetQua.resx">
+      <DependentUpon>FrmKetQua.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\Thitracnghiem\FrmLamBai.resx">
       <DependentUpon>FrmLamBai.cs</DependentUpon>
@@ -237,6 +469,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Images\basket.jpg" />
+    <Content Include="Images\chicken.jpg" />
+    <Content Include="Images\egg.png" />
+    <Content Include="Images\egg2.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

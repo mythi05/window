@@ -43,5 +43,15 @@ namespace MyThi_490.GUI
 
             this.Hide(); // Ẩn form thông tin thí sinh
         }
+
+        private void lblTitle_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtDiaChi_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

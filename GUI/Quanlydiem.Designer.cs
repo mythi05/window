@@ -28,6 +28,7 @@ namespace MyThi_490.GUI
             this.panelFill = new System.Windows.Forms.Panel();
             this.dgvKetQua = new System.Windows.Forms.DataGridView();
             this.colSV = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colTenSV = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colMon = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colDiem = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.panelTop.SuspendLayout();
@@ -49,14 +50,14 @@ namespace MyThi_490.GUI
             this.panelTop.Location = new System.Drawing.Point(0, 0);
             this.panelTop.Name = "panelTop";
             this.panelTop.Size = new System.Drawing.Size(1200, 200);
-            this.panelTop.TabIndex = 0;
+            this.panelTop.TabIndex = 1;
             // 
             // label1
             // 
             this.label1.Location = new System.Drawing.Point(30, 75);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(103, 25);
-            this.label1.TabIndex = 1;
+            this.label1.TabIndex = 0;
             this.label1.Text = "Sinh viên:";
             // 
             // cbSinhVien
@@ -65,14 +66,14 @@ namespace MyThi_490.GUI
             this.cbSinhVien.Location = new System.Drawing.Point(139, 70);
             this.cbSinhVien.Name = "cbSinhVien";
             this.cbSinhVien.Size = new System.Drawing.Size(250, 36);
-            this.cbSinhVien.TabIndex = 2;
+            this.cbSinhVien.TabIndex = 1;
             // 
             // label2
             // 
             this.label2.Location = new System.Drawing.Point(400, 75);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(80, 25);
-            this.label2.TabIndex = 3;
+            this.label2.TabIndex = 2;
             this.label2.Text = "Môn học:";
             // 
             // cbMonHoc
@@ -81,14 +82,14 @@ namespace MyThi_490.GUI
             this.cbMonHoc.Location = new System.Drawing.Point(480, 72);
             this.cbMonHoc.Name = "cbMonHoc";
             this.cbMonHoc.Size = new System.Drawing.Size(280, 36);
-            this.cbMonHoc.TabIndex = 4;
+            this.cbMonHoc.TabIndex = 3;
             // 
             // label3
             // 
             this.label3.Location = new System.Drawing.Point(800, 75);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(70, 25);
-            this.label3.TabIndex = 5;
+            this.label3.TabIndex = 4;
             this.label3.Text = "Điểm số:";
             // 
             // txtDiem
@@ -96,7 +97,7 @@ namespace MyThi_490.GUI
             this.txtDiem.Location = new System.Drawing.Point(870, 72);
             this.txtDiem.Name = "txtDiem";
             this.txtDiem.Size = new System.Drawing.Size(100, 34);
-            this.txtDiem.TabIndex = 6;
+            this.txtDiem.TabIndex = 5;
             // 
             // btnLuuDiem
             // 
@@ -106,7 +107,7 @@ namespace MyThi_490.GUI
             this.btnLuuDiem.Location = new System.Drawing.Point(120, 125);
             this.btnLuuDiem.Name = "btnLuuDiem";
             this.btnLuuDiem.Size = new System.Drawing.Size(150, 45);
-            this.btnLuuDiem.TabIndex = 7;
+            this.btnLuuDiem.TabIndex = 6;
             this.btnLuuDiem.Text = "Cập nhật điểm";
             this.btnLuuDiem.UseVisualStyleBackColor = false;
             // 
@@ -129,13 +130,13 @@ namespace MyThi_490.GUI
             dataGridViewCellStyle1.BackColor = System.Drawing.Color.RoyalBlue;
             dataGridViewCellStyle1.Font = new System.Drawing.Font("Segoe UI", 10F);
             dataGridViewCellStyle1.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle1.SelectionBackColor = Color.RoyalBlue;
-            dataGridViewCellStyle1.SelectionForeColor = Color.White;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.RoyalBlue;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.White;
             this.dgvKetQua.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
             this.dgvKetQua.ColumnHeadersHeight = 35;
             this.dgvKetQua.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.colSV,
+            this.colTenSV,
             this.colMon,
             this.colDiem});
             this.dgvKetQua.EnableHeadersVisualStyles = false;
@@ -144,7 +145,7 @@ namespace MyThi_490.GUI
             this.dgvKetQua.ReadOnly = true;
             this.dgvKetQua.RowHeadersWidth = 62;
             this.dgvKetQua.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvKetQua.Size = new System.Drawing.Size(1200, 480);
+            this.dgvKetQua.Size = new System.Drawing.Size(1200, 439);
             this.dgvKetQua.TabIndex = 0;
             // 
             // colSV
@@ -153,6 +154,13 @@ namespace MyThi_490.GUI
             this.colSV.MinimumWidth = 8;
             this.colSV.Name = "colSV";
             this.colSV.ReadOnly = true;
+            // 
+            // colTenSV
+            // 
+            this.colTenSV.HeaderText = "Tên Sinh Viên";
+            this.colTenSV.MinimumWidth = 8;
+            this.colTenSV.Name = "colTenSV";
+            this.colTenSV.ReadOnly = true;
             // 
             // colMon
             // 
@@ -194,6 +202,10 @@ namespace MyThi_490.GUI
         private System.Windows.Forms.Button btnLuuDiem;
         private System.Windows.Forms.Panel panelFill;
         private System.Windows.Forms.DataGridView dgvKetQua;
-        private System.Windows.Forms.DataGridViewTextBoxColumn colSV, colMon, colDiem;
+
+        private System.Windows.Forms.DataGridViewTextBoxColumn colSV;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colTenSV;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colMon;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colDiem;
     }
 }

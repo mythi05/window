@@ -12,21 +12,22 @@ namespace MyThi_490.DAL
         {
             if (listKetQua == null)
             {
-                listKetQua = new List<KetQua>();
-
-                listKetQua.Add(new KetQua("SV001", "CMP178", 8.5f));
-                listKetQua.Add(new KetQua("SV001", "ENG101", -1)); // -1 nghĩa là chưa có điểm
-                listKetQua.Add(new KetQua("SV002", "CMP178", 9.0f));
+                listKetQua = new List<KetQua>
+                {
+                    new KetQua("SV001", "CMP178", 8.5f),
+                    new KetQua("SV001", "ENG101", -1),
+                    new KetQua("SV002", "CMP178", 9.0f)
+                };
             }
         }
 
         public List<KetQua> GetAll() => listKetQua;
 
-
-     
-        public bool CapNhatDiem(string masv, string mamon, float diemMoi)
+        public bool CapNhatDiem(string maSV, string maMon, float diemMoi)
         {
-            var kq = listKetQua.FirstOrDefault(x => x.MaSV == masv && x.MaMon == mamon);
+            var kq = listKetQua.FirstOrDefault(
+                x => x.MaSV == maSV && x.MaMon == maMon);
+
             if (kq != null)
             {
                 kq.DiemSo = diemMoi;
@@ -34,7 +35,5 @@ namespace MyThi_490.DAL
             }
             return false;
         }
-
-       
     }
 }

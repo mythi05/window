@@ -43,9 +43,10 @@
             // 
             // lblThongTin
             // 
+            this.lblThongTin.BackColor = System.Drawing.Color.MintCream;
             this.lblThongTin.Dock = System.Windows.Forms.DockStyle.Fill;
             this.lblThongTin.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold);
-            this.lblThongTin.ForeColor = System.Drawing.Color.White;
+            this.lblThongTin.ForeColor = System.Drawing.Color.Black;
             this.lblThongTin.Location = new System.Drawing.Point(0, 0);
             this.lblThongTin.Name = "lblThongTin";
             this.lblThongTin.Size = new System.Drawing.Size(900, 60);

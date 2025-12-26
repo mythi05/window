@@ -11,8 +11,7 @@ namespace MyThi_490.GUI
 
             // Đăng ký sự kiện click cho các nút
             btnOpenSV.Click += (s, e) => OpenForm(new Quanlysinhvien());
-            btnOpenLop.Click += (s, e) => OpenForm(new Quanlylop());
-            btnOpenDiem.Click += (s, e) => OpenForm(new Quanlydiem());
+            
         }
 
         private void OpenForm(Form childForm)
@@ -30,6 +29,20 @@ namespace MyThi_490.GUI
             lblSVCount.Text = "1,420";
             lblLopCount.Text = "32";
             lblKhoaCount.Text = "6";
+        }
+
+        private void btnOpenSV_Click(object sender, EventArgs e)
+        {
+            Menu objMenu = new Menu();
+            objMenu.Show();
+        }
+
+
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Menu objMenu = new Menu();
+            objMenu.Show();
         }
     }
 }

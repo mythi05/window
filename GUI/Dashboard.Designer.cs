@@ -25,8 +25,7 @@
             this.lblKhoaTitle = new System.Windows.Forms.Label();
             this.lblQuickAccess = new System.Windows.Forms.Label();
             this.btnOpenSV = new System.Windows.Forms.Button();
-            this.btnOpenLop = new System.Windows.Forms.Button();
-            this.btnOpenDiem = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.panelSV.SuspendLayout();
             this.panelLop.SuspendLayout();
             this.panelKhoa.SuspendLayout();
@@ -146,46 +145,29 @@
             // 
             // btnOpenSV
             // 
-            this.btnOpenSV.BackColor = System.Drawing.Color.Teal;
-            this.btnOpenSV.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnOpenSV.ForeColor = System.Drawing.Color.White;
-            this.btnOpenSV.Location = new System.Drawing.Point(50, 350);
+            this.btnOpenSV.Location = new System.Drawing.Point(0, 0);
             this.btnOpenSV.Name = "btnOpenSV";
-            this.btnOpenSV.Size = new System.Drawing.Size(200, 60);
-            this.btnOpenSV.TabIndex = 2;
-            this.btnOpenSV.Text = "Quản lý Sinh Viên";
-            this.btnOpenSV.UseVisualStyleBackColor = false;
+            this.btnOpenSV.Size = new System.Drawing.Size(75, 23);
+            this.btnOpenSV.TabIndex = 0;
             // 
-            // btnOpenLop
+            // button1
             // 
-            this.btnOpenLop.BackColor = System.Drawing.Color.Teal;
-            this.btnOpenLop.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnOpenLop.ForeColor = System.Drawing.Color.White;
-            this.btnOpenLop.Location = new System.Drawing.Point(270, 350);
-            this.btnOpenLop.Name = "btnOpenLop";
-            this.btnOpenLop.Size = new System.Drawing.Size(200, 60);
-            this.btnOpenLop.TabIndex = 1;
-            this.btnOpenLop.Text = "Quản lý Lớp";
-            this.btnOpenLop.UseVisualStyleBackColor = false;
-            // 
-            // btnOpenDiem
-            // 
-            this.btnOpenDiem.BackColor = System.Drawing.Color.Teal;
-            this.btnOpenDiem.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnOpenDiem.ForeColor = System.Drawing.Color.White;
-            this.btnOpenDiem.Location = new System.Drawing.Point(490, 350);
-            this.btnOpenDiem.Name = "btnOpenDiem";
-            this.btnOpenDiem.Size = new System.Drawing.Size(200, 60);
-            this.btnOpenDiem.TabIndex = 0;
-            this.btnOpenDiem.Text = "Quản lý Điểm";
-            this.btnOpenDiem.UseVisualStyleBackColor = false;
+            this.button1.BackColor = System.Drawing.Color.Teal;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.ForeColor = System.Drawing.Color.White;
+            this.button1.Location = new System.Drawing.Point(76, 357);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(200, 60);
+            this.button1.TabIndex = 7;
+            this.button1.Text = "Bài Tập";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Dashboard
             // 
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
             this.ClientSize = new System.Drawing.Size(1000, 600);
-            this.Controls.Add(this.btnOpenDiem);
-            this.Controls.Add(this.btnOpenLop);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.btnOpenSV);
             this.Controls.Add(this.lblQuickAccess);
             this.Controls.Add(this.panelKhoa);
@@ -214,7 +196,6 @@
         private System.Windows.Forms.Label lblKhoaTitle;
         private System.Windows.Forms.Label lblQuickAccess;
         private System.Windows.Forms.Button btnOpenSV;
-        private System.Windows.Forms.Button btnOpenLop;
-        private System.Windows.Forms.Button btnOpenDiem;
+        private System.Windows.Forms.Button button1;
     }
 }

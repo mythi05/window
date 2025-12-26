@@ -18,6 +18,7 @@
         private void InitializeComponent()
         {
             this.panelMenu = new System.Windows.Forms.Panel();
+            this.btnVaothi = new System.Windows.Forms.Button();
             this.phanquyen = new System.Windows.Forms.Button();
             this.change = new System.Windows.Forms.Button();
             this.bntKhoa = new System.Windows.Forms.Button();
@@ -34,7 +35,6 @@
             this.lblTitle = new System.Windows.Forms.Label();
             this.panelDesktop = new System.Windows.Forms.Panel();
             this.labelWelcome = new System.Windows.Forms.Label();
-            this.btnVaothi = new System.Windows.Forms.Button();
             this.panelMenu.SuspendLayout();
             this.panelLogo.SuspendLayout();
             this.panelTitleBar.SuspendLayout();
@@ -61,6 +61,23 @@
             this.panelMenu.Name = "panelMenu";
             this.panelMenu.Size = new System.Drawing.Size(242, 700);
             this.panelMenu.TabIndex = 0;
+            // 
+            // btnVaothi
+            // 
+            this.btnVaothi.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btnVaothi.FlatAppearance.BorderSize = 0;
+            this.btnVaothi.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnVaothi.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.btnVaothi.ForeColor = System.Drawing.Color.Gainsboro;
+            this.btnVaothi.Location = new System.Drawing.Point(0, 652);
+            this.btnVaothi.Name = "btnVaothi";
+            this.btnVaothi.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
+            this.btnVaothi.Size = new System.Drawing.Size(242, 76);
+            this.btnVaothi.TabIndex = 11;
+            this.btnVaothi.Text = "   Trắc nghiệm";
+            this.btnVaothi.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnVaothi.UseVisualStyleBackColor = true;
+            this.btnVaothi.Click += new System.EventHandler(this.btnVaothi_Click);
             // 
             // phanquyen
             // 
@@ -299,23 +316,6 @@
             this.labelWelcome.TabIndex = 0;
             this.labelWelcome.Text = "Chào mừng bạn đến với hệ thống";
             this.labelWelcome.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // btnVaothi
-            // 
-            this.btnVaothi.Dock = System.Windows.Forms.DockStyle.Top;
-            this.btnVaothi.FlatAppearance.BorderSize = 0;
-            this.btnVaothi.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnVaothi.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.btnVaothi.ForeColor = System.Drawing.Color.Gainsboro;
-            this.btnVaothi.Location = new System.Drawing.Point(0, 652);
-            this.btnVaothi.Name = "btnVaothi";
-            this.btnVaothi.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
-            this.btnVaothi.Size = new System.Drawing.Size(242, 76);
-            this.btnVaothi.TabIndex = 11;
-            this.btnVaothi.Text = "   Trắc nghiệm";
-            this.btnVaothi.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnVaothi.UseVisualStyleBackColor = true;
-            this.btnVaothi.Click += new System.EventHandler(this.btnVaothi_Click);
             // 
             // MainForm
             // 

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Windows.Forms;
 using MyThi_490.BLL;
 using MyThi_490.Model;
@@ -15,8 +16,7 @@ namespace MyThi_490.GUI
         public Quanlydiem()
         {
             InitializeComponent();
-
-            this.Load += Quanlydiem_Load;
+            Load += Quanlydiem_Load;
             btnLuuDiem.Click += BtnLuuDiem_Click;
             dgvKetQua.CellClick += DgvKetQua_CellClick;
         }
@@ -29,80 +29,63 @@ namespace MyThi_490.GUI
 
         private void LoadComboBox()
         {
-            try
-            {
-                // Load Sinh Viên
-                List<SinhVien> listSV = svBLL.GetListSV();
-                cbSinhVien.DataSource = listSV;
-                cbSinhVien.DisplayMember = "HoTen";
-                cbSinhVien.ValueMember = "MaSV";
+            cbSinhVien.DataSource = svBLL.GetListSV();
+            cbSinhVien.DisplayMember = "HoTen";
+            cbSinhVien.ValueMember = "MaSV";
 
-                // Load Môn Học
-                List<MonHoc> listMH = mhBLL.GetList();
-                cbMonHoc.DataSource = listMH;
-                cbMonHoc.DisplayMember = "TenMon";
-                cbMonHoc.ValueMember = "MaMon";
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Lỗi tải danh mục: " + ex.Message);
-            }
+            cbMonHoc.DataSource = mhBLL.GetList();
+            cbMonHoc.DisplayMember = "TenMon";
+            cbMonHoc.ValueMember = "MaMon";
         }
 
         private void LoadDataGrid()
         {
             dgvKetQua.Rows.Clear();
-            try
-            {
-                List<KetQua> list = kqBLL.GetList();
-                foreach (var item in list)
-                {
-                    int index = dgvKetQua.Rows.Add();
-                    dgvKetQua.Rows[index].Cells[0].Value = item.MaSV;
-                    dgvKetQua.Rows[index].Cells[1].Value = item.MaMon;
 
-                    // Hiển thị text nếu chưa có điểm
-                    dgvKetQua.Rows[index].Cells[2].Value = (item.DiemSo == -1) ? "Chưa có điểm" : item.DiemSo.ToString();
-                }
-            }
-            catch (Exception ex)
+            List<KetQua> listKQ = kqBLL.GetList();
+            List<SinhVien> listSV = svBLL.GetListSV();
+
+            foreach (var kq in listKQ)
             {
-                MessageBox.Show("Lỗi tải bảng điểm: " + ex.Message);
+                int i = dgvKetQua.Rows.Add();
+
+                dgvKetQua.Rows[i].Cells[0].Value = kq.MaSV;
+
+                var sv = listSV.FirstOrDefault(x => x.MaSV == kq.MaSV);
+                dgvKetQua.Rows[i].Cells[1].Value = sv != null ? sv.HoTen : "Không rõ";
+
+                dgvKetQua.Rows[i].Cells[2].Value = kq.MaMon;
+                dgvKetQua.Rows[i].Cells[3].Value =
+                    kq.DiemSo == -1 ? "Chưa có điểm" : kq.DiemSo.ToString();
             }
         }
 
         private void BtnLuuDiem_Click(object sender, EventArgs e)
         {
-            if (cbSinhVien.SelectedValue == null || cbMonHoc.SelectedValue == null) return;
+            if (!float.TryParse(txtDiem.Text, out float diem))
+            {
+                MessageBox.Show("Vui lòng nhập điểm hợp lệ");
+                return;
+            }
 
             string maSV = cbSinhVien.SelectedValue.ToString();
             string maMon = cbMonHoc.SelectedValue.ToString();
 
-            if (!float.TryParse(txtDiem.Text, out float diem))
-            {
-                MessageBox.Show("Vui lòng nhập điểm số hợp lệ!");
-                return;
-            }
-
-            string ketQua = kqBLL.NhapDiem(maSV, maMon, diem);
-            MessageBox.Show(ketQua);
+            MessageBox.Show(kqBLL.NhapDiem(maSV, maMon, diem));
             LoadDataGrid();
         }
 
         private void DgvKetQua_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            if (e.RowIndex >= 0)
-            {
-                DataGridViewRow row = dgvKetQua.Rows[e.RowIndex];
+            if (e.RowIndex < 0) return;
 
-                string maSV = row.Cells[0].Value?.ToString();
-                string maMon = row.Cells[1].Value?.ToString();
-                string diemStr = row.Cells[2].Value?.ToString();
+            DataGridViewRow row = dgvKetQua.Rows[e.RowIndex];
 
-                cbSinhVien.SelectedValue = maSV;
-                cbMonHoc.SelectedValue = maMon;
-                txtDiem.Text = (diemStr == "Chưa có điểm") ? "" : diemStr;
-            }
+            cbSinhVien.SelectedValue = row.Cells[0].Value.ToString();
+            cbMonHoc.SelectedValue = row.Cells[2].Value.ToString();
+            txtDiem.Text = row.Cells[3].Value.ToString() == "Chưa có điểm"
+                ? ""
+                : row.Cells[3].Value.ToString();
         }
     }
 }
